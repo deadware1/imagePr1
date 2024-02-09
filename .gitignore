@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/imagePr1/v17
+/x64/Debug
+/start.bat
